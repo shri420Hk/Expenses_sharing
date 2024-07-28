@@ -1,6 +1,6 @@
 # Expense Management App
 
-This is a simple expense management application built with Flask. It allows users to create accounts, add expenses, and generate balance sheets.
+This is an expense management application built with Flask. It allows users to create accounts, add expenses, and generate balance sheets.
 
 ## Features
 
