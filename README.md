@@ -192,6 +192,3 @@ This is a simple expense management application built with Flask. It allows user
 
     A CSV file containing the balance sheet data.
 
-## License
-
-This project is licensed under the MIT License.
